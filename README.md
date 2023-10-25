@@ -19,7 +19,7 @@ open [https://ishika-contact-manager.netlify.app/contacts/list/](https://ishika-
 
 ## Features
 
-All the featuere works on temporary which is ADD, DELETE and UPDATE (except fetch).
+All the featuere works on temporary which is ADD, DELETE and UPDATE.
 
 
 #### `add,delete,edit,view`
